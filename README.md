@@ -1,14 +1,14 @@
 # Zomato-Analysis-Dashboard
-🍽️ Zomato Analytics Dashboard
+# 🍽️ Zomato Analytics Dashboard
 
-📌 Project Overview
+# 📌 Project Overview
 
 The Zomato Analytics Dashboard is a data visualization project built using Power BI to analyze restaurant data across different cities and countries.
 This dashboard provides insights into restaurant count, cuisines, pricing, ratings, online delivery, and table booking trends.
 
 The objective of this project is to perform Exploratory Data Analysis (EDA) and create interactive visual reports to support business decision-making.
 
-📊 Key Insights
+# 📊 Key Insights
 
 🔹 Total Restaurants: 9551
 
@@ -26,7 +26,7 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) and 
 
 🔹 Low and Medium price categories dominate the market.
 
-📈 Dashboard Features
+# 📈 Dashboard Features
 
 🔹 Restaurant by Cuisines (Tree Map)
 
@@ -42,7 +42,7 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) and 
 
 🔹 Interactive Filters (Country, City, Year)
 
-🛠️ Tools & Technologies Used
+# 🛠️ Tools & Technologies Used
 
 🔹 Power BI
 
@@ -52,7 +52,7 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) and 
 
 🔹 Data Modeling
 
-📂 Dataset Information
+# 📂 Dataset Information
 
 🔹 Source: Zomato Restaurant Dataset
 
@@ -60,7 +60,7 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) and 
 
 🔹 Columns: Restaurant Name, City, Country, Cuisines, Average Cost, Rating, Online Delivery, Table Booking, etc.
 
-🚀 How to Use
+# 🚀 How to Use
 
 🔹 Download the .pbix file.
 
@@ -68,7 +68,7 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) and 
 
 🔹 Use filters to explore insights by city, country, and year.
 
-📌 Project Objectives
+# 📌 Project Objectives
 
 🔹 Perform EDA on restaurant data
 
