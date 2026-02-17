@@ -83,7 +83,7 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) and 
 
 ![Zomato Analysis Dashboard](Excel.png)
 
-![Zomato Analysis Dashboard](Power BI.png)
+![Zomato Analysis Dashboard](https://github.com/chetanadable/Zomato-Analysis-Dashboard/blob/main/Power%20BI.png)
 
 ![Zomato Analysis Dashboard](Tableau.png)
 
