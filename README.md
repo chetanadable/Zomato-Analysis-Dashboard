@@ -1,5 +1,6 @@
 # Zomato-Analysis-Dashboard
 🍽️ Zomato Analytics Dashboard
+
 📌 Project Overview
 
 The Zomato Analytics Dashboard is a data visualization project built using Power BI to analyze restaurant data across different cities and countries.
@@ -77,6 +78,8 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) and 
 
 🔹 Understand customer service features (Delivery & Booking)
 
-📸 Dashboard Preview
 
-(Add your dashboard screenshot here)
+## 📸 Dashboard Preview
+
+![Zomato Analytics Dashboard](dashboard_preview.png)
+
